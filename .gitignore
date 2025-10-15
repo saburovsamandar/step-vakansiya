@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env
+.env
+env
+# Virtual environment
+venv/
+.env/
+venv
+
+# ---- Python cache ----
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.py.class
+
+# ---- Virtual environment ----
+venv/
+env/
+.venv/
+.env/
+
+# ---- Environment config ----
+.env
+*.env
+
+# ---- IDE sozlamalari ----
+.idea/
+.vscode/
+*.iml
+idea
+.idea
+# ---- OS tizim fayllari ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Log va vaqtinchalik fayllar ----
+*.log
+*.tmp
+*.bak
+*.swp
+nohup.out
+
+# ---- PyInstaller yoki build chiqishlari ----
+build/
+dist/
+*.spec
+
+# ---- Jupyter yoki IPython fayllari ----
+.ipynb_checkpoints/
+
+# ---- Test natijalari ----
+.coverage
+.tox/
+pytest_cache/
+htmlcov/
