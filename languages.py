@@ -9,7 +9,7 @@ languages = {
         "done": "✅ Vakansiya kanalga joylandi!"
     },
     "qq": {
-        "lang_name": "🏜 Qaraqalpaq tili",
+        "lang_name": "🇬🇦 Qaraqalpaq tili",
         "add_vacancy": "Vakansiya qos‘iw",
         "start_text": "Assalawma Aleykum \n\nTil saylandi ✅\nVakansiya qosiw ushin tomendegi menudi basin' ! !",
         "fields": ["Lawazım", "Mekeme", "Mánzil", "Talaplar", "Jumıs waqıtı", "Aylıq", "Baylanıs", "Qosımsha"],
